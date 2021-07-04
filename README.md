@@ -1,2 +1,2 @@
-# iManageAssessment
-iManage Assessment
+# Sample Rest Projects
+Stack Operations on Rest API
